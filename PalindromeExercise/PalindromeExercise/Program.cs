@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
+using System.Linq;
 
 namespace PalindromeExercise
 {
@@ -6,7 +8,10 @@ namespace PalindromeExercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+
+
+
         }
     }
 }
